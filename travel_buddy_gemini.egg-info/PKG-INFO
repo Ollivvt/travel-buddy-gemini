@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: travel-buddy-gemini
-Version: 0.1.0
-Summary: Add your description here
-Requires-Python: >=3.11
-Requires-Dist: google-generativeai>=0.8.4
-Requires-Dist: streamlit>=1.44.1
