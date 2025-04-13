@@ -1,0 +1,6 @@
+pyproject.toml
+travel_buddy_gemini.egg-info/PKG-INFO
+travel_buddy_gemini.egg-info/SOURCES.txt
+travel_buddy_gemini.egg-info/dependency_links.txt
+travel_buddy_gemini.egg-info/requires.txt
+travel_buddy_gemini.egg-info/top_level.txt
