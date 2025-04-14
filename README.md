@@ -1,6 +1,6 @@
 # 🧳 Smart Travel Genie
 
-![travel-banner](https://github.com/user-attachments/assets/ef575bb3-d98f-4db7-9c3e-e1c24d63d226)
+<img src="https://github.com/user-attachments/assets/ef575bb3-d98f-4db7-9c3e-e1c24d63d226" alt="Smart Travel Genie Banner" width="600">
 
 > AI-powered travel itinerary generation - from overwhelming options to perfect personalization in seconds.
 
@@ -86,24 +86,24 @@ User Input → Prompt Engineering → Gemini API → JSON Response → Formatted
 
 ## 🚀 Future Enhancements
 
-[] Map Integration: Visualize daily activities on an interactive map
-[] Image Generation: AI-generated images of recommended locations
-[] Local Insights: Add cultural tips and local customs information
-[] Weather Integration: Incorporate weather forecasts into planning
-[] Itinerary Export: PDF/calendar export functionality
-[] Restaurant & Hotel Booking Links: Direct integration with booking platforms
+- [ ] Map Integration: Visualize daily activities on an interactive map
+- [ ] Image Generation: AI-generated images of recommended locations
+- [ ] Local Insights: Add cultural tips and local customs information
+- [ ] Weather Integration: Incorporate weather forecasts into planning
+- [ ] Itinerary Export: PDF/calendar export functionality
+- [ ] Restaurant & Hotel Booking Links: Direct integration with booking platforms
 
 ## 🧠 Lessons Learned
 Through this capstone project, I've gained valuable insights into:
 
-Effective prompt engineering for structured outputs
-Balancing user customization with AI simplicity
-Creating intuitive UI/UX for AI-powered applications
-Optimizing LLM responses for factual accuracy in travel recommendations
+- Effective prompt engineering for structured outputs
+- Balancing user customization with AI simplicity
+- Creating intuitive UI/UX for AI-powered applications
+- Optimizing LLM responses for factual accuracy in travel recommendations
 
 ## 👏 Acknowledgements
 
-Google x Kaggle Gen AI Intensive 2025 program and mentors
-Streamlit for their amazing framework for rapid AI application development
-Google for access to the Gemini API
-Travel bloggers whose public content helped with prompt examples and validation
+- Google x Kaggle Gen AI Intensive 2025 program and mentors
+- Streamlit for their amazing framework for rapid AI application development
+- Google for access to the Gemini API
+- Travel bloggers whose public content helped with prompt examples and validation
