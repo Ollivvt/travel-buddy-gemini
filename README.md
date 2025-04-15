@@ -1,6 +1,6 @@
 # 🧳 Smart Travel Genie
 
-<img src="https://github.com/user-attachments/assets/ef575bb3-d98f-4db7-9c3e-e1c24d63d226" alt="Smart Travel Genie Banner" width="600">
+<img src="https://github.com/user-attachments/assets/7932614d-20ff-4a33-9dd2-846df1de83ab" alt="Smart Travel Genie Banner" width="600">
 
 > AI-powered travel itinerary generation - from overwhelming options to perfect personalization in seconds.
 
